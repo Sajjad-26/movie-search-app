@@ -1,4 +1,3 @@
-import '../../../../core/error/exceptions.dart';
 import '../../domain/entities/movie.dart';
 import '../../domain/entities/movie_detail.dart';
 import '../../domain/repositories/movie_repository.dart';

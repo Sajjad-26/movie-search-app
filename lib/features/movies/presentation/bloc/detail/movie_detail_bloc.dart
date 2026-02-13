@@ -1,7 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import '../../../domain/usecases/get_movie_detail.dart';
 import '../../../domain/repositories/movie_repository.dart';
-import '../../../domain/entities/movie.dart';
 import '../../../../../core/error/exceptions.dart';
 import 'movie_detail_event.dart';
 import 'movie_detail_state.dart';
